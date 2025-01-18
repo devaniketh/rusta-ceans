@@ -24,7 +24,7 @@ fn main(){
 
     }  
  
-
+}
  //booleans
 fn main() {
     let x = true;
@@ -55,7 +55,7 @@ fn main(){
 }
 
 
-conttrol flow 
+//control flow 
 fn main (){
     let num = 3;
     if num<5{
